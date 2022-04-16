@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Study\DotNet\Bill_Generator\Bill_Generator\bin\Debug\Bill_Generator.exe.config
+C:\Users\Lenovo\Desktop\Study\DotNet\Bill_Generator\Bill_Generator\bin\Debug\Bill_Generator.exe
+C:\Users\Lenovo\Desktop\Study\DotNet\Bill_Generator\Bill_Generator\bin\Debug\Bill_Generator.pdb
+C:\Users\Lenovo\Desktop\Study\DotNet\Bill_Generator\Bill_Generator\obj\Debug\Bill_Generator.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Study\DotNet\Bill_Generator\Bill_Generator\obj\Debug\Bill_Generator.Form1.resources
+C:\Users\Lenovo\Desktop\Study\DotNet\Bill_Generator\Bill_Generator\obj\Debug\Bill_Generator.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Study\DotNet\Bill_Generator\Bill_Generator\obj\Debug\Bill_Generator.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Study\DotNet\Bill_Generator\Bill_Generator\obj\Debug\Bill_Generator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Study\DotNet\Bill_Generator\Bill_Generator\obj\Debug\Bill_Generator.exe
+C:\Users\Lenovo\Desktop\Study\DotNet\Bill_Generator\Bill_Generator\obj\Debug\Bill_Generator.pdb
